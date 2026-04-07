@@ -7,6 +7,9 @@ Este projeto tem como objetivo desenvolver um sistema web para gerenciamento de 
 ## 🔗 Protótipo no Figma
 Link: https://inside-nougat-15918358.figma.site/
 
+## 🔗 Link Trello (Gestão de Projetos)
+Link: https://sharing.clickup.com/90171105661/l/h/2kz9vrbx-497/856a8651ec46ee5
+
 ## 🚀 Funcionalidades
 - Login de usuários
 - Cadastro de projetos (obras)
